@@ -1,3 +1,4 @@
 streamlit
-opencv-python
-pytubefix
+opencv-python-headless
+yt-dlp
+numpy
